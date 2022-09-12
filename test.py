@@ -14,3 +14,6 @@ for i in range(len(v_dict_d)):
     cont +=1
 
 print(cont)
+
+#Obtengo los valores
+v_dic_values = v_dict.values()
